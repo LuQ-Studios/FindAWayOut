@@ -1,0 +1,17 @@
+// Copyright (c) 2026, LuQ Studios. All Rights Reserved.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Kismet/BlueprintFunctionLibrary.h"
+#include "FindAWayOutUtils.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class FINDAWAYOUT_API UFindAWayOutUtils : public UBlueprintFunctionLibrary
+{
+	GENERATED_BODY()
+public:
+};
